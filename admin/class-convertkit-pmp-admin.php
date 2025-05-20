@@ -461,7 +461,6 @@ class ConvertKit_PMP_Admin {
 				printf( "<p class='description'><small>%s</small></p>", esc_html( "This tag will be assigned when a member's level is removed.", "convertkit-pmp" ) );
 			}
 		}
-
 	}
 
 	/**
